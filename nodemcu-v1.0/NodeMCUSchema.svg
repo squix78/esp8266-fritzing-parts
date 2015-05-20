@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="65px" height="130px" viewBox="0 0 65 130" enable-background="new 0 0 65 130" xml:space="preserve">
+<text transform="matrix(1 0 0 1 51.6953 16.3164)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">D0</text>
+<text transform="matrix(1 0 0 1 51.6953 23.5078)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">D1</text>
+<text transform="matrix(1 0 0 1 51.6953 30.6992)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">D2</text>
+<text transform="matrix(1 0 0 1 51.6953 37.8906)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">D3</text>
+<text transform="matrix(1 0 0 1 51.6953 45.0811)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">D4</text>
+<text transform="matrix(1 0 0 1 50.1758 52.2725)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">3V3</text>
+<text transform="matrix(1 0 0 1 48.6582 59.4629)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">GND</text>
+<text transform="matrix(1 0 0 1 51.6953 66.6543)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">D5</text>
+<text transform="matrix(1 0 0 1 51.6953 73.8457)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">D6</text>
+<text transform="matrix(1 0 0 1 51.6953 81.0352)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">D7</text>
+<text transform="matrix(1 0 0 1 51.6953 88.2266)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">D8</text>
+<text transform="matrix(1 0 0 1 52.0391 95.418)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">RX</text>
+<text transform="matrix(1 0 0 1 52.2871 102.6094)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">TX</text>
+<text transform="matrix(1 0 0 1 48.6582 109.7988)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">GND</text>
+<text transform="matrix(1 0 0 1 50.1758 116.9902)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">3V3</text>
+<text transform="matrix(1 0 0 1 9.2734 116.9902)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">Vin</text>
+<text transform="matrix(1 0 0 1 9.2725 109.9199)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">GND</text>
+<text transform="matrix(1 0 0 1 9.2725 102.7266)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">RST</text>
+<text transform="matrix(1 0 0 1 9.2725 95.5332)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">EN</text>
+<text transform="matrix(1 0 0 1 9.2725 88.3389)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">3V3</text>
+<text transform="matrix(1 0 0 1 9.2725 81.1445)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">GND</text>
+<text transform="matrix(1 0 0 1 9.2725 73.9521)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">CLK</text>
+<text transform="matrix(1 0 0 1 9.2725 66.7578)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">SD0</text>
+<text transform="matrix(1 0 0 1 9.2725 59.5625)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">CMD</text>
+<text transform="matrix(1 0 0 1 9.2725 52.3691)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">SD1</text>
+<text transform="matrix(1 0 0 1 9.2725 45.1758)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">SD2</text>
+<text transform="matrix(1 0 0 1 9.2725 37.9824)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">SD3</text>
+<text transform="matrix(1 0 0 1 9.2725 30.7871)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">RSV</text>
+<text transform="matrix(1 0 0 1 9.2725 23.5938)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">RSV</text>
+<text transform="matrix(1 0 0 1 9.2734 16.3164)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">A0</text>
+<rect x="7.272" y="7.201" fill="none" stroke="#231F20" stroke-width="0.7" stroke-miterlimit="10" width="50.4" height="116.2"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="15.386" x2="7.272" y2="15.401"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="22.601" x2="7.272" y2="22.617"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="29.801" x2="7.272" y2="29.817"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="36.97" x2="7.272" y2="36.986"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="44.186" x2="7.272" y2="44.202"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="51.386" x2="7.272" y2="51.401"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="58.586" x2="7.272" y2="58.602"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="65.803" x2="7.272" y2="65.817"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="73.002" x2="7.272" y2="73.019"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="80.172" x2="7.272" y2="80.187"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="87.388" x2="7.272" y2="87.402"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="94.588" x2="7.272" y2="94.603"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="101.856" x2="7.272" y2="101.873"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="109.072" x2="7.272" y2="109.088"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="116.272" x2="7.272" y2="116.289"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="15.439" x2="64.872" y2="15.455"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="22.655" x2="64.873" y2="22.671"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="29.855" x2="64.873" y2="29.871"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="37.024" x2="64.872" y2="37.039"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="44.24" x2="64.873" y2="44.255"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="51.439" x2="64.873" y2="51.455"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="58.64" x2="64.872" y2="58.656"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="65.855" x2="64.873" y2="65.871"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="73.057" x2="64.873" y2="73.071"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="80.226" x2="64.872" y2="80.24"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="87.44" x2="64.873" y2="87.457"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="94.642" x2="64.873" y2="94.656"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="101.91" x2="64.872" y2="101.927"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="109.127" x2="64.873" y2="109.143"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="57.602" y1="116.326" x2="64.873" y2="116.343"/>
+<text transform="matrix(1 0 0 1 23.9336 53.4004)" font-family="'DroidSans'" font-size="4.25">NodeMCU </text>
+<text transform="matrix(1 0 0 1 29.5884 58.5)" font-family="'DroidSans'" font-size="4.25">V1.0</text>
+</svg>
