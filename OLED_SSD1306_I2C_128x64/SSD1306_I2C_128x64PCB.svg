@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:xml="http://www.w3.org/XML/1998/namespace"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="79.95px" height="72.75px"
+	 viewBox="-46.775 16.925 79.95 72.75" enable-background="new -46.775 16.925 79.95 72.75" xml:space="preserve">
+<g id="silkscreen">
+	<line fill="none" stroke="#FFFFFF" stroke-width="0.75" x1="-46.4" y1="89.299" x2="32.8" y2="89.299"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="0.75" x1="32.8" y1="17.3" x2="-46.4" y2="17.3"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="0.75" x1="32.8" y1="89.299" x2="32.8" y2="17.3"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="0.75" x1="-46.4" y1="89.299" x2="-46.4" y2="17.301"/>
+</g>
+<g id="copper0">
+	<g id="copper1">
+		<circle id="connector1pin_3_" fill="none" stroke="#FFBF00" stroke-width="1.152" cx="5.584" cy="22.916" r="1.584"/>
+		<circle id="connector2pin_5_" fill="none" stroke="#FFBF00" stroke-width="1.152" cx="-1.584" cy="22.908" r="1.584"/>
+		<circle id="connector3pin_5_" fill="none" stroke="#FFBF00" stroke-width="1.152" cx="-8.816" cy="22.916" r="1.584"/>
+		<circle id="connector4pin_7_" fill="none" stroke="#FFBF00" stroke-width="1.152" cx="-16.016" cy="22.916" r="1.584"/>
+	</g>
+</g>
+<g id="keepout">
+</g>
+<g id="soldermask">
+</g>
+<g id="outline">
+</g>
+</svg>

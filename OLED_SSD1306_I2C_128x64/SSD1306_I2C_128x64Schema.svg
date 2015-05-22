@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="58px" height="50px" viewBox="0 0 58 50" enable-background="new 0 0 58 50" xml:space="preserve">
+<text transform="matrix(1 0 0 1 9.5669 37.1494)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">SDA</text>
+<text transform="matrix(1 0 0 1 9.5659 30.0791)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">SCL</text>
+<text transform="matrix(1 0 0 1 25.0835 41.4521)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">GND</text>
+<text transform="matrix(1 0 0 1 25.6655 11)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">VCC</text>
+<rect x="7.272" y="7.201" fill="none" stroke="#231F20" stroke-width="0.7" stroke-miterlimit="10" width="50.399" height="35.714"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="28.856" y1="7.271" x2="28.872" y2="0.001"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.072" y1="28.801" x2="7.343" y2="28.816"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.001" y1="35.982" x2="7.272" y2="36.001"/>
+<text transform="matrix(1 0 0 1 21.6719 22.0322)" font-family="'DroidSans'" font-size="4.25">OLED 128x64 </text>
+<text transform="matrix(1 0 0 1 21.6719 27.1318)" font-family="'DroidSans'" font-size="4.25">SSD1306 </text>
+<text transform="matrix(1 0 0 1 21.6719 32.2324)" font-family="'DroidSans'" font-size="4.25">I2C </text>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="28.873" y1="50.4" x2="28.888" y2="43.131"/>
+</svg>
