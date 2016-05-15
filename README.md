@@ -7,4 +7,4 @@ This repository contains parts based on the ESP8266 for the Fritzing application
 
 ![NodeMCUV1.0](/nodemcu-v1.0/NodeMCUV1.0.png)
 
-Read more about it on http://blog.squix.ch
+Read more about it [on my blog](http://blog.squix.ch/2015/05/esp8266-nodemcu-v10-part-created-for.html).
