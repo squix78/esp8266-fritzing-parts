@@ -32,19 +32,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
      id="namedview21"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="3.8461539"
-     inkscape:cx="177.58501"
-     inkscape:cy="26.380668"
-     inkscape:window-x="2552"
-     inkscape:window-y="355"
+     inkscape:zoom="13.763784"
+     inkscape:cx="54.469999"
+     inkscape:cy="95.939999"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1" /><g
      id="keepout"
@@ -62,26 +62,26 @@
          style="fill:none;stroke:#000000;stroke-opacity:1" /><text
          id="text36"
          font-size="2.5"
-         style="font-size:2.5px;font-family:OCRA;fill:#000000"
-         x="-19.549999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         x="-22.928431"
          y="28.9116">GND</text>
 <text
          id="text38"
          font-size="2.5"
-         style="font-size:2.5px;font-family:OCRA;fill:#000000"
-         x="-12.2267"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         x="-13.479989"
          y="28.9097">VCC</text>
 <text
          id="text40"
          font-size="2.5"
-         style="font-size:2.5px;font-family:OCRA;fill:#000000"
-         x="-4.9035001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         x="-4.6855369"
          y="28.9116">SCL</text>
 <text
          id="text42"
          font-size="2.5"
-         style="font-size:2.5px;font-family:OCRA;fill:#000000"
-         x="2.4198"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         x="4.2724881"
          y="28.9097">SDA</text>
 <path
          inkscape:connector-curvature="0"
