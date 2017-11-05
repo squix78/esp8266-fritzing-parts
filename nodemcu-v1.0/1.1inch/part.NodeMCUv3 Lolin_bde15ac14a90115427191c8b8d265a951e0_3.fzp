@@ -9,7 +9,7 @@ p, li { white-space: pre-wrap; }
 &lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
 &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'.Helvetica Neue DeskInterface'; font-size:13pt;">ESP8266 NodeMCU with 1.1" layout	&lt;/span>&lt;/p>&lt;/body>&lt;/html></description>
  <title>NodeMCU V3.0 0.1"</title>
- <label>MCU</title>
+ <label>MCU</label>
  <tags>
   <tag>NodeMCU</tag>
   <tag>Lolin</tag>
@@ -18,7 +18,7 @@ p, li { white-space: pre-wrap; }
  <properties>
   <property name="chip">ESP8266</property>
   <property name="family">ESP8266</property>
-  <property name="variant">variant 6</property>
+  <property name="variant">1.1 inch</property>
   <property name="part number"></property>
   <property name="layer"></property>
  </properties>
