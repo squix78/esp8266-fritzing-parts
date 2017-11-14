@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 165.6 87.9"
+   gorn="0"
+   height="1.2204725in"
+   width="2.3000913in"
+	 style="enable-background:new 0 0 165.6 87.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1E2C5C;}
+	.st1{fill:#454545;}
+	.st2{fill:#B68B2D;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:2.5px;}
+	.st6{font-size:2.5936px;}
+	.st7{font-size:2.5492px;}
+	.st8{font-size:2.4983px;}
+	.st9{font-size:2.6023px;}
+	.st10{font-size:2.508px;}
+	.st11{font-size:2.5031px;}
+	.st12{font-size:2.4886px;}
+	.st13{font-size:2.5849px;}
+	.st14{font-size:2.5112px;}
+	.st15{font-size:2.5047px;}
+	.st16{fill:#BEC0C2;}
+	.st17{fill:#231F20;}
+	.st18{fill:#5F5758;}
+	.st19{fill:#524B4C;}
+	.st20{fill:#4D4648;}
+	.st21{font-size:5.567px;}
+	.st22{fill:#D19B2A;}
+</style>
+<desc  id="desc3">
+	<referenceFile>NodeMCUBreadboard.svg</referenceFile>
+</desc>
+<g id="breadboard">
+	<path id="path3899" class="st0" d="M158.4,0H6C2.7,0,0,2.8,0,6.2v75.5c0,3.4,2.7,6.2,6,6.2h152.4c3.3,0,6-2.8,6-6.2V6.2
+		C164.4,2.8,161.7,0,158.4,0z M7.9,2.2c2.8,0,5.1,2.3,5.1,5.2c0,2.9-2.3,5.2-5.1,5.2c-2.8,0-5.1-2.3-5.1-5.2C2.7,4.6,5,2.2,7.9,2.2z
+		 M7.9,85.9c-2.8,0-5.1-2.3-5.1-5.2c0-2.9,2.3-5.2,5.1-5.2c2.8,0,5.1,2.4,5.1,5.2C13,83.6,10.7,85.9,7.9,85.9z M156.9,85.9
+		c-2.8,0-5.1-2.3-5.1-5.2c0-2.9,2.3-5.2,5.1-5.2c2.8,0,5.1,2.4,5.1,5.2C162.1,83.6,159.8,85.9,156.9,85.9z M156.9,12.7
+		c-2.8,0-5.1-2.3-5.1-5.2c0-2.9,2.3-5.2,5.1-5.2c2.8,0,5.1,2.3,5.1,5.2C162.1,10.4,159.8,12.7,156.9,12.7z"/>
+	<rect id="rect3901" x="29.9" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3903" class="st1" points="28.1,85.3 28.1,81.6 29.9,79.7 29.9,87.1 	"/>
+	<polygon id="polygon3905" class="st1" points="33.6,87.1 33.6,79.7 35.5,81.6 35.5,85.3 	"/>
+	<rect id="connector42pin" x="31.1" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect3909" x="37.1" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3911" class="st1" points="35.3,85.3 35.3,81.6 37.1,79.7 37.1,87.1 	"/>
+	<polygon id="polygon3913" class="st1" points="40.8,87.1 40.8,79.7 42.7,81.6 42.7,85.3 	"/>
+	<rect id="connector41pin" x="38.3" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect3917" x="44.3" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3919" class="st1" points="42.5,85.3 42.5,81.6 44.3,79.7 44.3,87.1 	"/>
+	<polygon id="polygon3921" class="st1" points="48,87.1 48,79.7 49.9,81.6 49.9,85.3 	"/>
+	<rect id="connector40pin" x="45.5" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect3925" x="51.5" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3927" class="st1" points="49.7,85.3 49.7,81.6 51.5,79.7 51.5,87.1 	"/>
+	<polygon id="polygon3929" class="st1" points="55.2,87.1 55.2,79.7 57.1,81.6 57.1,85.3 	"/>
+	<rect id="connector39pin" x="52.7" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect3933" x="58.7" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3935" class="st1" points="56.9,85.3 56.9,81.6 58.7,79.7 58.7,87.1 	"/>
+	<polygon id="polygon3937" class="st1" points="62.4,87.1 62.4,79.7 64.3,81.6 64.3,85.3 	"/>
+	<rect id="connector38pin" x="59.9" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect3941" x="65.9" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3943" class="st1" points="64.1,85.3 64.1,81.6 65.9,79.7 65.9,87.1 	"/>
+	<polygon id="polygon3945" class="st1" points="69.6,87.1 69.6,79.7 71.5,81.6 71.5,85.3 	"/>
+	<rect id="connector37pin" x="67.1" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect3949" x="73.1" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3951" class="st1" points="71.3,85.3 71.3,81.6 73.1,79.7 73.1,87.1 	"/>
+	<polygon id="polygon3953" class="st1" points="76.8,87.1 76.8,79.7 78.7,81.6 78.7,85.3 	"/>
+	<rect id="connector36pin" x="74.3" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect3957" x="80.3" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3959" class="st1" points="78.5,85.3 78.5,81.6 80.3,79.7 80.3,87.1 	"/>
+	<polygon id="polygon3961" class="st1" points="84,87.1 84,79.7 85.9,81.6 85.9,85.3 	"/>
+	<rect id="connector35pin" x="81.5" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect3965" x="87.5" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3967" class="st1" points="85.7,85.3 85.7,81.6 87.5,79.7 87.5,87.1 	"/>
+	<polygon id="polygon3969" class="st1" points="91.2,87.1 91.2,79.7 93.1,81.6 93.1,85.3 	"/>
+	<rect id="connector34pin" x="88.7" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect3973" x="94.7" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3975" class="st1" points="92.9,85.3 92.9,81.6 94.7,79.7 94.7,87.1 	"/>
+	<polygon id="polygon3977" class="st1" points="98.4,87.1 98.4,79.7 100.3,81.6 100.3,85.3 	"/>
+	<rect id="connector33pin" x="95.9" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect3981" x="101.9" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3983" class="st1" points="100.1,85.3 100.1,81.6 101.9,79.7 101.9,87.1 	"/>
+	<polygon id="polygon3985" class="st1" points="105.6,87.1 105.6,79.7 107.5,81.6 107.5,85.3 	"/>
+	<rect id="connector19pin" x="103.1" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect3989" x="109.1" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3991" class="st1" points="107.3,85.3 107.3,81.6 109.1,79.7 109.1,87.1 	"/>
+	<polygon id="polygon3993" class="st1" points="112.8,87.1 112.8,79.7 114.7,81.6 114.7,85.3 	"/>
+	<rect id="connector18pin" x="110.3" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect3997" x="116.3" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon3999" class="st1" points="114.5,85.3 114.5,81.6 116.3,79.7 116.3,87.1 	"/>
+	<polygon id="polygon4001" class="st1" points="120,87.1 120,79.7 121.9,81.6 121.9,85.3 	"/>
+	<rect id="connector17pin" x="117.5" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4005" x="123.5" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4007" class="st1" points="121.7,85.3 121.7,81.6 123.5,79.7 123.5,87.1 	"/>
+	<polygon id="polygon4009" class="st1" points="127.2,87.1 127.2,79.7 129.1,81.6 129.1,85.3 	"/>
+	<rect id="connector16pin" x="124.7" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4013" x="130.7" y="79.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4015" class="st1" points="128.9,85.3 128.9,81.6 130.7,79.7 130.7,87.1 	"/>
+	<polygon id="polygon4017" class="st1" points="134.4,87.1 134.4,79.7 136.3,81.6 136.3,85.3 	"/>
+	<rect id="connector15pin" x="131.9" y="82.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4021" x="29.7" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4023" class="st1" points="27.8,2.6 29.7,0.7 29.7,8.1 27.8,6.3 	"/>
+	<polygon id="polygon4025" class="st1" points="33.4,0.7 35.3,2.6 35.3,6.3 33.4,8.1 	"/>
+	<rect id="connector0pin" x="30.9" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4029" x="36.9" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4031" class="st1" points="35,2.6 36.9,0.7 36.9,8.1 35,6.3 	"/>
+	<polygon id="polygon4033" class="st1" points="40.6,0.7 42.5,2.6 42.5,6.3 40.6,8.1 	"/>
+	<rect id="connector1pin" x="38.1" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4037" x="44.1" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4039" class="st1" points="42.2,2.6 44.1,0.7 44.1,8.1 42.2,6.3 	"/>
+	<polygon id="polygon4041" class="st1" points="47.8,0.7 49.7,2.6 49.7,6.3 47.8,8.1 	"/>
+	<rect id="connector2pin" x="45.3" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4045" x="51.3" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4047" class="st1" points="49.4,2.6 51.3,0.7 51.3,8.1 49.4,6.3 	"/>
+	<polygon id="polygon4049" class="st1" points="55,0.7 56.9,2.6 56.9,6.3 55,8.1 	"/>
+	<rect id="connector3pin" x="52.5" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4053" x="58.5" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4055" class="st1" points="56.6,2.6 58.5,0.7 58.5,8.1 56.6,6.3 	"/>
+	<polygon id="polygon4057" class="st1" points="62.2,0.7 64.1,2.6 64.1,6.3 62.2,8.1 	"/>
+	<rect id="connector4pin" x="59.7" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4061" x="65.7" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4063" class="st1" points="63.8,2.6 65.7,0.7 65.7,8.1 63.8,6.3 	"/>
+	<polygon id="polygon4065" class="st1" points="69.4,0.7 71.3,2.6 71.3,6.3 69.4,8.1 	"/>
+	<rect id="connector5pin" x="66.9" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4069" x="72.9" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4071" class="st1" points="71,2.6 72.9,0.7 72.9,8.1 71,6.3 	"/>
+	<polygon id="polygon4073" class="st1" points="76.6,0.7 78.5,2.6 78.5,6.3 76.6,8.1 	"/>
+	<rect id="connector6pin" x="74.1" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4077" x="80.1" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4079" class="st1" points="78.2,2.6 80.1,0.7 80.1,8.1 78.2,6.3 	"/>
+	<polygon id="polygon4081" class="st1" points="83.8,0.7 85.7,2.6 85.7,6.3 83.8,8.1 	"/>
+	<rect id="connector7pin" x="81.3" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4085" x="87.3" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4087" class="st1" points="85.4,2.6 87.3,0.7 87.3,8.1 85.4,6.3 	"/>
+	<polygon id="polygon4089" class="st1" points="91,0.7 92.9,2.6 92.9,6.3 91,8.1 	"/>
+	<rect id="connector8pin" x="88.5" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4093" x="94.5" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4095" class="st1" points="92.6,2.6 94.5,0.7 94.5,8.1 92.6,6.3 	"/>
+	<polygon id="polygon4097" class="st1" points="98.2,0.7 100.1,2.6 100.1,6.3 98.2,8.1 	"/>
+	<rect id="connector9pin" x="95.7" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4101" x="101.7" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4103" class="st1" points="99.8,2.6 101.7,0.7 101.7,8.1 99.8,6.3 	"/>
+	<polygon id="polygon4105" class="st1" points="105.4,0.7 107.3,2.6 107.3,6.3 105.4,8.1 	"/>
+	<rect id="connector10pin" x="102.9" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4109" x="108.9" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4111" class="st1" points="107,2.6 108.9,0.7 108.9,8.1 107,6.3 	"/>
+	<polygon id="polygon4113" class="st1" points="112.6,0.7 114.5,2.6 114.5,6.3 112.6,8.1 	"/>
+	<rect id="connector11pin" x="110.1" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4117" x="116.1" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4119" class="st1" points="114.2,2.6 116.1,0.7 116.1,8.1 114.2,6.3 	"/>
+	<polygon id="polygon4121" class="st1" points="119.8,0.7 121.7,2.6 121.7,6.3 119.8,8.1 	"/>
+	<rect id="connector12pin" x="117.3" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4125" x="123.3" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4127" class="st1" points="121.4,2.6 123.3,0.7 123.3,8.1 121.4,6.3 	"/>
+	<polygon id="polygon4129" class="st1" points="127,0.7 128.9,2.6 128.9,6.3 127,8.1 	"/>
+	<rect id="connector13pin" x="124.5" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<rect id="rect4133" x="130.5" y="0.7" class="st1" width="3.7" height="7.4"/>
+	<polygon id="polygon4135" class="st1" points="128.6,2.6 130.5,0.7 130.5,8.1 128.6,6.3 	"/>
+	<polygon id="polygon4137" class="st1" points="134.2,0.7 136.1,2.6 136.1,6.3 134.2,8.1 	"/>
+	<rect id="connector14pin" x="131.7" y="3.6" class="st2" width="1.3" height="1.7"/>
+	<text id="text4141" transform="matrix(6.123234e-17 -1 1 6.123234e-17 31.9919 13.4297)" class="st3 st4 st5">D0</text>
+	<text id="text4143" transform="matrix(5.902298e-17 -0.9639 1 6.123234e-17 39.1284 13.4297)" class="st3 st4 st6">D1</text>
+	<text id="text4145" transform="matrix(6.005015e-17 -0.9807 1 6.123234e-17 46.4077 13.4297)" class="st3 st4 st7">D2</text>
+	<text id="text4147" transform="matrix(6.127486e-17 -1.0007 1 6.123234e-17 53.5657 13.4302)" class="st3 st4 st8">D3</text>
+	<text id="text4149" transform="matrix(5.882544e-17 -0.9607 1 6.123234e-17 60.7646 13.4297)" class="st3 st4 st9">D4</text>
+	<text id="text4151" transform="matrix(6.123234e-17 -1 1 6.123234e-17 67.8105 14.0566)" class="st3 st4 st5">3V3</text>
+	<text id="text4153" transform="matrix(6.103782e-17 -0.9968 1 6.123234e-17 75.4185 14.6104)" class="st3 st4 st10">GND</text>
+	<text id="text4155" transform="matrix(6.005015e-17 -0.9807 1 6.123234e-17 82.3247 13.4297)" class="st3 st4 st7">D5</text>
+	<text id="text4157" transform="matrix(6.115633e-17 -0.9988 1 6.123234e-17 89.543 13.4302)" class="st3 st4 st11">D6</text>
+	<text id="text4159" transform="matrix(5.882544e-17 -0.9607 1 6.123234e-17 96.8601 13.4297)" class="st3 st4 st9">D7</text>
+	<text id="text4161" transform="matrix(6.151190e-17 -1.0046 1 6.123234e-17 103.9431 13.4302)" class="st3 st4 st12">D8</text>
+	<text id="text4163" transform="matrix(5.882544e-17 -0.9607 1 6.123234e-17 111.1033 13.5684)" class="st3 st4 st9">RX</text>
+	<text id="text4165" transform="matrix(5.882544e-17 -0.9607 1 6.123234e-17 118.2551 13.4297)" class="st3 st4 st9">TX</text>
+	<text id="text4167" transform="matrix(6.103782e-17 -0.9968 1 6.123234e-17 125.7974 14.6104)" class="st3 st4 st10">GND</text>
+	<text id="text4169" transform="matrix(6.127486e-17 -1.0007 1 6.123234e-17 132.8896 14.0566)" class="st3 st4 st8">3V3</text>
+	<text id="text4171" transform="matrix(1.776612e-16 -0.9671 1 1.836970e-16 133.4365 77.3465)" class="st3 st4 st13">Vin</text>
+	<text id="text4173" transform="matrix(1.836970e-16 -1 1 1.836970e-16 126.0464 78.3398)" class="st3 st4 st5">GND</text>
+	<text id="text4175" transform="matrix(1.836970e-16 -1 1 1.836970e-16 118.9004 78.04)" class="st3 st4 st5">RST</text>
+	<text id="text4177" transform="matrix(1.764760e-16 -0.9607 1 1.836970e-16 111.7344 77.2987)" class="st3 st4 st9">EN</text>
+	<text id="text4179" transform="matrix(1.836970e-16 -1 1 1.836970e-16 105.1548 77.7861)" class="st3 st4 st5">3V3</text>
+	<text id="text4181" transform="matrix(1.836970e-16 -1 1 1.836970e-16 97.4526 78.3398)" class="st3 st4 st5">GND</text>
+	<text id="text4183" transform="matrix(1.836970e-16 -1 1 1.836970e-16 90.103 77.2295)" class="st3 st4 st5">SK</text>
+	<text id="text4185" transform="matrix(1.836970e-16 -1 1 1.836970e-16 82.7954 77.0908)" class="st3 st4 st5">S0</text>
+	<text id="text4187" transform="matrix(1.828761e-16 -0.9955 1 1.836970e-16 75.4404 77.299)" class="st3 st4 st14">SC</text>
+	<text id="text4189" transform="matrix(1.828761e-16 -0.9955 1 1.836970e-16 68.4395 77.0914)" class="st3 st4 st14">S1</text>
+	<text id="text4191" transform="matrix(1.833502e-16 -0.9981 1 1.836970e-16 61.1113 77.0912)" class="st3 st4 st15">S2</text>
+	<text id="text4193" transform="matrix(1.836970e-16 -1 1 1.836970e-16 54.438 77.0908)" class="st3 st4 st5">S3</text>
+	<text id="text4195" transform="matrix(1.801502e-16 -0.9807 1 1.836970e-16 46.8555 77.299)" class="st3 st4 st7">VU</text>
+	<text id="text4197" transform="matrix(1.831131e-16 -0.9968 1 1.836970e-16 39.9072 78.34)" class="st3 st4 st10">GND</text>
+	<text id="text4199" transform="matrix(-3.464102e-07 -1 1 -3.464102e-07 32.3248 77.0888)" class="st3 st4 st5">A0</text>
+	<rect id="rect4201" x="148.3" y="33" class="st16" width="17.3" height="21.8"/>
+	<rect id="rect4203" x="137.6" y="22.9" class="st16" width="9.9" height="6.7"/>
+	<ellipse id="circle4205" class="st17" cx="142.6" cy="26.2" rx="2.8" ry="2.8"/>
+	<text id="text4211" transform="matrix(1 0 0 1 138.6165 31.8251)" class="st3 st4 st5">FLASH</text>
+	<text id="text4213" transform="matrix(1 0 0 1 140.6711 58.3728)" class="st3 st4 st5">RST</text>
+	<rect id="rect4215" x="19.8" y="24.4" class="st18" width="43.5" height="39"/>
+	<rect id="rect4217" x="1" y="26.7" class="st2" width="1.3" height="11.8"/>
+	<rect id="rect4219" x="1.1" y="37.4" class="st2" width="11.1" height="1.2"/>
+	<rect id="rect4221" x="1.1" y="41.2" class="st2" width="11.1" height="1.2"/>
+	<rect id="rect4223" x="1.1" y="45" class="st2" width="11.1" height="1.2"/>
+	<rect id="rect4225" x="1.1" y="48.8" class="st2" width="11.1" height="1.2"/>
+	<rect id="rect4227" x="1.1" y="52.6" class="st2" width="11.1" height="1.2"/>
+	<rect id="rect4229" x="1.1" y="56.4" class="st2" width="11.1" height="1.2"/>
+	<rect id="rect4231" x="10.9" y="37.4" class="st2" width="1.3" height="5"/>
+	<rect id="rect4233" x="1.1" y="42" class="st2" width="1.3" height="4.2"/>
+	<rect id="rect4235" x="10.9" y="45" class="st2" width="1.3" height="5"/>
+	<rect id="rect4237" x="1.1" y="48.8" class="st2" width="1.3" height="5"/>
+	<rect id="rect4239" x="10.9" y="52.6" class="st2" width="1.3" height="5"/>
+	<rect id="rect4241" x="1.3" y="56.3" class="st2" width="1.3" height="6"/>
+	<rect id="rect4243" x="1.7" y="61.2" class="st2" width="18.6" height="1.2"/>
+	<rect id="rect4245" x="15.2" y="37.9" class="st2" width="1.3" height="24.3"/>
+	<rect id="rect4247" x="73" y="31" class="st19" width="16.4" height="10.2"/>
+	<rect id="rect4249" x="115.9" y="33.7" class="st20" width="13.4" height="25.6"/>
+	<text id="tspan4267" transform="matrix(7.806452e-07 -1.2633 1 8.226668e-07 137.6318 56.3853)" class="st3 st4 st21">Lolin</text>
+	<g id="g374" transform="translate(83.759712,33.896653)">
+		<g id="g376">
+			<g id="g378">
+			</g>
+		</g>
+	</g>
+	<rect id="rect4247_1_" x="74.8" y="60" class="st22" width="6.8" height="4.4"/>
+	<rect id="rect4247_2_" x="82" y="51.5" class="st22" width="6.8" height="4.4"/>
+	<g>
+		<rect id="rect4203_1_" x="137.6" y="59.6" class="st16" width="9.9" height="6.7"/>
+		<ellipse id="circle4205_1_" class="st17" cx="142.6" cy="62.9" rx="2.8" ry="2.8"/>
+	</g>
+	<text id="text4195_1_" transform="matrix(1.801502e-16 -0.9807 1 1.836970e-16 16.4834 14.0566)" class="st3 st4 st7">Ver      0.1</text>
+</g>
+</svg>

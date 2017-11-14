@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1"  version="1.1" xml:space="preserve" enable-background="new -46.775 16.925 79.95 72.75" height="1.01042in" gorn="0" xmlns:xml="http://www.w3.org/XML/1998/namespace" viewBox="0 0 79.95 72.75" x="0px" y="0px" width="1.11042in">
+    <desc >
+        <referenceFile >SSD1306_I2C_128x64PCB.svg</referenceFile>
+    </desc>
+    <g  transform="translate(46.775,-16.925)">
+        <g >
+            <g >
+                <g >
+                    <g id="silkscreen"  gorn="0.1.0.0.0.0">
+                        <line  stroke-width="0.75" stroke="#FFFFFF" y1="89.299" y2="89.299" x1="-46.4" x2="32.8" fill="none"/>
+                        <line  stroke-width="0.75" stroke="#FFFFFF" y1="17.3" y2="17.3" x1="32.8" x2="-46.4" fill="none"/>
+                        <line  stroke-width="0.75" stroke="#FFFFFF" y1="89.299" y2="17.3" x1="32.8" x2="32.8" fill="none"/>
+                        <line  stroke-width="0.75" stroke="#FFFFFF" y1="89.299" y2="17.301" x1="-46.4" x2="-46.4" fill="none"/>
+                    </g>
+                    <g id="copper0"  gorn="0.1.0.0.0.1">
+                        <g id="copper1"  gorn="0.1.0.0.0.1.0">
+                            <circle id="connector4pin"  stroke-width="1.152" stroke="#FFBF00" cx="5.584" r="1.584" cy="22.916" gorn="0.1.0.0.0.1.0.0" fill="none"/>
+                            <circle id="connector3pin"  stroke-width="1.152" stroke="#FFBF00" cx="-1.584" r="1.584" cy="22.908" gorn="0.1.0.0.0.1.0.1" fill="none"/>
+                            <circle id="connector2pin"  stroke-width="1.152" stroke="#FFBF00" cx="-8.816" r="1.584" cy="22.916" gorn="0.1.0.0.0.1.0.2" fill="none"/>
+                            <circle id="connector1pin"  stroke-width="1.152" stroke="#FFBF00" cx="-16.016" r="1.584" cy="22.916" gorn="0.1.0.0.0.1.0.3" fill="none"/>
+                        </g>
+                    </g>
+                    <g id="keepout"  gorn="0.1.0.0.0.2"/>
+                    <g id="soldermask"  gorn="0.1.0.0.0.3"/>
+                    <g id="outline"  gorn="0.1.0.0.0.4"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
